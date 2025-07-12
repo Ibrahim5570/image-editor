@@ -62,7 +62,7 @@ Adjust opencv4 to opencv if using OpenCV 3.
 
 ## 👤 Author
 
-[Aleeza Rizwan](https://github.com/its-aleezA)
+[Ibrahim Abdullah](https://github.com/Ibrahim5570)
 
 ---
 
